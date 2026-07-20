@@ -71,8 +71,10 @@ I build AI-powered applications, intelligent automation systems, and modern web 
 
 ## 🌍 Let's Connect
 
-- Email: YOUR EMAIL nyirimanajdamour@gmail.com
+-### 🌍 Let's Connect
 
+- 💼 LinkedIn: https://www.linkedin.com/in/jean-damour-nyirimana-0402742a7
+- 📧 Email: your-email@example.com
 ---
 
 ⭐ Thanks for visiting my profile!
