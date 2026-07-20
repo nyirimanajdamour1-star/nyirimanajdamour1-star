@@ -2,7 +2,7 @@
 
 ## 🚀 AI Developer | Full Stack Web Developer
 
-I build AI-powered applications, AI agents, intelligent automation, and modern full-stack web solutions.
+I build AI-powered applications, intelligent automation systems, and modern web applications using the latest technologies.
 
 ### 💡 What I Do
 
@@ -11,40 +11,70 @@ I build AI-powered applications, AI agents, intelligent automation, and modern f
 - 🌐 Full Stack Web Development
 - ⚡ Workflow Automation (n8n)
 - 🎨 AI Image Generation
-- 🎬 AI Video Generation
-- 📝 Prompt Engineering
+- 🎥 AI Video Generation
 - 📈 Trading & Financial Tools
+- 🔥 API Integrations
 
-### 🛠 Tech Stack
+---
 
+## 🛠 Tech Stack
+
+### Frontend
+- HTML
+- CSS
 - JavaScript
 - TypeScript
 - React
 - Next.js
-- Node.js
-- Python
-- HTML
-- CSS
 - Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- Python
+- FastAPI
+
+### AI
+- OpenAI API
+- Claude API
+- Gemini API
+- LangChain
+- Hugging Face
+
+### Database
+- PostgreSQL
+- MongoDB
+- Supabase
+- Firebase
+
+### Tools
 - Git
 - GitHub
-- OpenAI API
-- n8n
 - Vercel
-
-### 🌱 Currently Learning
-
-- Advanced AI Agents
-- Multi-Agent Systems
-- LangChain
-- MCP
-- AI Automation
-- Cloud Deployment
-
-### 📫 Contact
-
-- LinkedIn: *(add later)*
-- Portfolio: *(coming soon)*
+- Docker
+- n8n
+- VS Code
 
 ---
-⭐ Always building intelligent software and modern AI solutions.
+
+## 🚀 Current Projects
+
+🔹 AI Business Automation
+
+🔹 AI Trading Assistant
+
+🔹 E-commerce Websites
+
+🔹 AI Customer Support Chatbots
+
+---
+
+## 🌍 Let's Connect
+
+- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- Portfolio: https://YOUR-WEBSITE.com
+- Email: YOUR EMAIL
+
+---
+
+⭐ Thanks for visiting my profile!
