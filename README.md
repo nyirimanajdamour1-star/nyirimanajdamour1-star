@@ -71,9 +71,7 @@ I build AI-powered applications, intelligent automation systems, and modern web 
 
 ## 🌍 Let's Connect
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
-- Portfolio: https://YOUR-WEBSITE.com
-- Email: YOUR EMAIL
+- Email: YOUR EMAIL nyirimanajdamour@gmail.com
 
 ---
 
