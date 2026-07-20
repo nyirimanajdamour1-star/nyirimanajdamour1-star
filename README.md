@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Jean Damour
 
-<!--
-**nyirimanajdamour1-star/nyirimanajdamour1-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI Developer | Full Stack Web Developer
 
-Here are some ideas to get you started:
+I build AI-powered applications, AI agents, intelligent automation, and modern full-stack web solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I Do
+
+- 🤖 AI Agents
+- 💬 AI Chatbots
+- 🌐 Full Stack Web Development
+- ⚡ Workflow Automation (n8n)
+- 🎨 AI Image Generation
+- 🎬 AI Video Generation
+- 📝 Prompt Engineering
+- 📈 Trading & Financial Tools
+
+### 🛠 Tech Stack
+
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Node.js
+- Python
+- HTML
+- CSS
+- Tailwind CSS
+- Git
+- GitHub
+- OpenAI API
+- n8n
+- Vercel
+
+### 🌱 Currently Learning
+
+- Advanced AI Agents
+- Multi-Agent Systems
+- LangChain
+- MCP
+- AI Automation
+- Cloud Deployment
+
+### 📫 Contact
+
+- LinkedIn: *(add later)*
+- Portfolio: *(coming soon)*
+
+---
+⭐ Always building intelligent software and modern AI solutions.
